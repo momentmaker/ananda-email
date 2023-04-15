@@ -3,5 +3,6 @@ title: "Posts Archive"
 layout: archive
 hidden: true
 type: posts
-summary: This page contains an archive of all posts.
+draft: true
+summary: An archive of all posts.
 ---

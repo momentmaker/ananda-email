@@ -8,7 +8,7 @@ framed: true
 
 This site is dedicated to all the `A Touch of Light` weekly email teachings from Nayaswami `Jyotish` and Nayaswami `Devi`.
 
-[view archive](posts/archive)
+[view archive](archive)
 
 ---
 
