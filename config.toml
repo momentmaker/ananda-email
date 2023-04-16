@@ -4,6 +4,7 @@ title = 'Ananda Email'
 subtitle = "Emails from Ananda"
 theme = 'terminal'
 keywords = 'yogananda,ananda,sangha'
+enableRobotsTXT = true
 
 [params]
   # dir name of your Main content (default is `content/posts`).
