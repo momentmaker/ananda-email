@@ -1,4 +1,4 @@
-baseURL = 'https://ananda-email.netlify.app/'
+baseURL = 'https://ananda.email/'
 languageCode = 'en-us'
 title = 'Ananda Email'
 subtitle = "Emails from Ananda"
