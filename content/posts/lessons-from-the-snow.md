@@ -7,15 +7,6 @@ tags:
 - give
 - receive
 - God
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 70
-  threshold: 20
-  toLower: false
 ---
 
 We have been experiencing historic snowfalls in Northern California. Hard as it is to imagine, some areas near Lake Tahoe have gotten nearly fifty feet of snow so far, with more on the way! Much less has fallen at Ananda Village, but still we’ve gotten more than any time in recent memory. With hills, freezing temperatures, and snowy roads, many of us have been snowbound. Here is the view from our living room this morning.

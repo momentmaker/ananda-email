@@ -7,15 +7,6 @@ tags:
 - remember
 - pray
 - chant
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 90
-  threshold: 20
-  toLower: false
 ---
 
 We are often asked, “How can I keep the peace and joy I feel in meditation during the demands and distractions of daily activity?” This is, in fact, one of life’s ever-present tests. Another way of phrasing this question is, “How can I keep my energy flowing in a positive direction, in tune with my higher aspirations, so that the world does not pull me down?”

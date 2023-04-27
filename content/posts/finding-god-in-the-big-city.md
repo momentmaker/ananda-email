@@ -6,15 +6,7 @@ date: 2023-03-24
 tags:
 - God
 - city
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 50
-  threshold: 20
-  toLower: false
+- satsang
 ---
 
 Twenty million people! That’s the population of the Greater Los Angeles area, we were told recently when we visited friends and Ananda centers there.

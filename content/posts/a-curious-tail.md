@@ -6,15 +6,7 @@ date: 2023-02-10
 tags:
 - detachment
 - freedom
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 80
-  threshold: 20
-  toLower: false
+- wisdom
 ---
 
 As I walked along a forest path at Ananda’s Meditation Retreat one morning, I observed an unusual drama unfold before me. Crouched a few yards ahead was Lottie, a fluffy little gray cat who kept the Retreat’s kitchen free from mice. Her gaze was concentrated on something in front of her, and by her intense crouching pose, I could tell she was about to pounce on it.

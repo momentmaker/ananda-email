@@ -7,15 +7,6 @@ tags:
 - diwali
 - light
 - love
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 70
-  threshold: 20
-  toLower: false
 ---
 
 “They’re coming! Our king and queen are coming! Ram, our beloved God, and Sita, our beautiful queen, are finally coming home!” Thus rejoiced the happy citizens of Ayodhya centuries ago when Ram and Sita returned. After long years away, the living light was returning to Ayodhya, and the people were placing lamps along the road to celebrate the occasion.

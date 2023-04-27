@@ -7,15 +7,6 @@ tags:
 - sadhana
 - seva
 - self-offering
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 70
-  threshold: 20
-  toLower: false
 ---
 
 It is good to celebrate noteworthy events, and this is one of those milestones. You are reading blog number five hundred! Writing five hundred in a row hasn’t always been easy or convenient, but sharing a Touch of Light has been one of the greatest blessings of our lives.

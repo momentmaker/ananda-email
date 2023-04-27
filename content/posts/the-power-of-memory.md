@@ -7,15 +7,6 @@ tags:
 - memory
 - mind
 - superconsciousness
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 90
-  threshold: 20
-  toLower: false
 ---
 
 “Many have been My births, O Arjuna, and many also yours. I remember all of Mine, though you remember yours not.” These words from Sri Krishna to his disciple in the Bhagavad Gita show a divine memory of the soul’s eternal nature.

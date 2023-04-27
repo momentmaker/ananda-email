@@ -6,15 +6,7 @@ date: 2022-11-18
 tags:
 - service
 - self-offering
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 70
-  threshold: 20
-  toLower: false
+- love
 ---
 
 This is a special moment in time for Jyotish and me. Yesterday we had our last public satsang in Mumbai after nearly four months of traveling, teaching, and sharing love with friends in Assisi and India. By the time you read this, we will be returning to Ananda Village.

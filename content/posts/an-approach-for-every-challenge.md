@@ -6,15 +6,7 @@ date: 2023-01-20
 tags:
 - surrender
 - God
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 80
-  threshold: 20
-  toLower: false
+- loss
 ---
 
 Many readers will know that Ananda Village was mostly destroyed by a huge forest fire in 1976. Devi and I were new parents with an eleven-day-old infant when the flames devoured our home, our clothes, and virtually all our possessions. In meditation this morning I was remembering that day and contemplating some of the cherished lessons I learned.

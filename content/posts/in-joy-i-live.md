@@ -7,15 +7,6 @@ tags:
 - joy
 - meditation
 - samadhi
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 70
-  threshold: 20
-  toLower: false
 ---
 
 Anyone who has tried to have a regular practice of meditation knows that it’s no easy thing. Creating time in the midst of daily demands, leaving behind worries and preoccupations, summoning up enthusiasm every day: All of these and more are challenges we all face.

@@ -7,15 +7,6 @@ tags:
 - intuition
 - grace
 - guidance
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 60
-  threshold: 20
-  toLower: false
 ---
 
 I’ve come across some amazing and amusing examples of advanced souls being guided by intuition. These stories are from a book of letters from Paramhansa Yogananda to his second-most-advanced disciple, Yogacharya Oliver Black, My Dear Oliver. Here is the story of how Yogacharya met his guru:

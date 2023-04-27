@@ -7,15 +7,6 @@ tags:
 - arjuna
 - surrender
 - ego
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 50
-  threshold: 20
-  toLower: false
 ---
 
 My major field of study in college was cultural anthropology. One of my professors shared some interesting experiences he’d had during a year in which he lived with a remote tribe in New Guinea. These people were so inaccessible that they’d never seen a Westerner before.

@@ -7,15 +7,6 @@ tags:
 - wisdom
 - joy
 - kriya
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 80
-  threshold: 20
-  toLower: false
 ---
 
 We recently heard a remarkable story about Sri Yukteswar. Many devotees have a little difficulty relating to him, since he seems a bit forbidding. Perhaps it is because in Autobiography of a Yogi, Paramhansa Yogananda writes about him in his role as both teacher and disciplinarian, a job he took very seriously, especially knowing that he was preparing Master for a world-changing role.

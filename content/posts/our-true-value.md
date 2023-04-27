@@ -7,15 +7,6 @@ tags:
 - compare
 - goals
 - God
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 70
-  threshold: 20
-  toLower: false
 ---
 
 In the first few years after Swami Kriyananda started Ananda, a number of swamis from India visited us. Most of them were not well known and were traveling alone without any entourage, but they brought with them the authentic spirituality of India. Perhaps it was Yoganandaji’s way of helping to imbue our lives, and Ananda’s work for the future, with deep spiritual vibrations.

@@ -7,15 +7,6 @@ tags:
 - saint
 - wisdom
 - compassion
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 60
-  threshold: 20
-  toLower: false
 ---
 
 The woman sobbed inconsolably as she pressed the body of her dead child to her bosom. A sympathetic neighbor, on seeing her so overwhelmed with grief, said, “A saint has come to visit our village. Perhaps he can perform a miracle and bring your child back to life.”

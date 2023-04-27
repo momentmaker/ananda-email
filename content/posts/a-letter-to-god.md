@@ -7,15 +7,6 @@ tags:
 - God
 - grateful
 - kriya
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 70
-  threshold: 20
-  toLower: false
 ---
 
 Dear God,

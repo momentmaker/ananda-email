@@ -7,15 +7,6 @@ tags:
 - journey
 - grace
 - guru
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 60
-  threshold: 20
-  toLower: false
 ---
 
 Driving on a stormy night to an uncertain destination is a daunting experience for all of us. It’s also a perfect analogy for the challenges on our spiritual journey.

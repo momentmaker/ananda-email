@@ -7,15 +7,6 @@ tags:
 - God
 - bible
 - prayer
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 60
-  threshold: 20
-  toLower: false
 ---
 
 The winter’s night was very cold and windy, and I huddled by the little stove in my camper reading the Bible by the light of a kerosene lamp. In the early years of Ananda our dwellings were simple—without electricity, running water, phones, or any way to communicate with others.

@@ -7,15 +7,6 @@ tags:
 - christmas
 - courage
 - consciousness
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 80
-  threshold: 20
-  toLower: false
 ---
 
 Courage is an essential quality, needed for success in both everyday life and spiritual growth. Fortunately, courage is an innate quality of the soul. We cannot avoid the challenges that come to us, because they are drawn by our own karma and the soul’s longing to be free.

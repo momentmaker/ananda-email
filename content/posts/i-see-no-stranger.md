@@ -7,15 +7,6 @@ tags:
 - sikh
 - guru
 - maya
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 70
-  threshold: 20
-  toLower: false
 ---
 
 The beautiful plaque on the wall of our friends’ home caught my eye. We were in Chandigarh staying with a Sikh family who are fellow disciples of Paramhansa Yogananda. They welcomed us with such graciousness and warmth that we soon felt totally at home.

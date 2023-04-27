@@ -6,15 +6,7 @@ date: 2023-04-21
 tags:
 - ascension
 - God
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 70
-  threshold: 20
-  toLower: false
+- energy
 ---
 
 A few weeks ago Jyotish and I led the Astral Ascension Ceremony for a dear friend, Judy Fox, who passed away recently. Judy was part of a small team, as were we, that Swami Kriyananda sent to Italy in the early 1980s to help start Ananda’s work there.

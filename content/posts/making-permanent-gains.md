@@ -1,18 +1,12 @@
 ---
 title: "Making Permanent Gains"
-description: ""
+description: "As we enter the new year, it’s traditional to use this juncture as an opportunity to make resolutions about how we’d like to improve our life. It’s a little discouraging, however, to think back on previous New Year’s resolutions and realize that we’d resolved to change the same things in years past without any discernible results."
 author: "Nayaswami Devi"
 date: 2022-12-30
 tags:
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 60
-  threshold: 20
-  toLower: false
+- God
+- gain
+- journey
 ---
 
 As we enter the new year, it’s traditional to use this juncture as an opportunity to make resolutions about how we’d like to improve our life. It’s a little discouraging, however, to think back on previous New Year’s resolutions and realize that we’d resolved to change the same things in years past without any discernible results.

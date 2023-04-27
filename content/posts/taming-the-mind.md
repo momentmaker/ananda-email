@@ -6,15 +6,7 @@ date: 2023-03-31
 tags:
 - mindfulness
 - aum
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 70
-  threshold: 20
-  toLower: false
+- guru
 ---
 
 A restless mind is a common and ancient problem for meditators. If you also have this problem, know, my friend, that you are not alone.

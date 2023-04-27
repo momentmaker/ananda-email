@@ -7,15 +7,6 @@ tags:
 - freedom
 - forgiveness
 - self-control
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 80
-  threshold: 20
-  toLower: false
 ---
 
 What is true freedom? Some would say, “It’s the ability to do whatever you want whenever you want.” That’s certainly a kind of freedom, but it’s one which ultimately leads to bondage. Living in that way, we become controlled by our desires.

@@ -7,15 +7,6 @@ tags:
 - gift
 - family
 - joy
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 80
-  threshold: 20
-  toLower: false
 ---
 
 Devi wrote recently about our pilgrimage to sacred sites in Varanasi, Kolkata, and Serampore. On our last day in Serampore a very special gift was given to us.

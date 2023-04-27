@@ -7,15 +7,6 @@ tags:
 - self-realization
 - energy
 - enthusiasm
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 70
-  threshold: 20
-  toLower: false
 ---
 
 During a recent talk in Bangalore, India, I said that most people are “discontent to some extent.” Devi liked the catchy phrase so much that she even wryly suggested we should print it on T-shirts. Personally, I think that’s going too far, but it does make a good topic for a blog.

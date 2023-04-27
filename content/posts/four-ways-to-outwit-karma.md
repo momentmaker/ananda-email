@@ -7,15 +7,6 @@ tags:
 - karma
 - meditation
 - guru
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 90
-  threshold: 20
-  toLower: false
 ---
 
 Karma is one of the fundamental laws of the universe. Basically, it states that every thought, feeling, and action has a consequence. In the Bible, it says, “As you sow, so shall you reap.”

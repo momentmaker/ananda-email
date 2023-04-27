@@ -6,15 +6,7 @@ date: 2023-04-14
 tags:
 - anxiety
 - meditation
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 80
-  threshold: 20
-  toLower: false
+- nervousness
 ---
 
 Anxiety is one of the diseases of our age, affecting almost two-thirds of the population, with nearly a third finding it debilitating.

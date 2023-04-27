@@ -7,15 +7,6 @@ tags:
 - meditation
 - love
 - God
-related:
-  includeNewer: true
-  indices:
-  - applyFilter: false
-    name: fragmentrefs
-    type: fragments
-    weight: 60
-  threshold: 20
-  toLower: false
 ---
 
 Recently a friend wrote asking: “How can I help family members who are going through a difficult time, or have a sour relationship with one another, without being affected by the situation personally? How does one know when to intervene and support, and when to be an observer and send support from a distance?”
