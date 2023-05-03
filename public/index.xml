@@ -1506,15 +1506,5 @@ When the creature reached the end of the branch, it fell into the water below. F
 </content>
     </item>
     
-    <item>
-      <title>Posts Archive</title>
-      <link>https://ananda.email/posts/archive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ananda.email/posts/archive/</guid>
-      <description>An archive of all posts.</description>
-      <content></content>
-    </item>
-    
   </channel>
 </rss>
