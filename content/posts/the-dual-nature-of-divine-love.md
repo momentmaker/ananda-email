@@ -1,0 +1,44 @@
+---
+title: "The Dual Nature of Divine Love"
+description: "Some years ago Jyotish and I arrived at Ananda’s community near Assisi, Italy, where Swami Kriyananda was then residing. We hadn’t seen him for many months, and were eagerly looking forward to having some relaxed time with him to enjoy the blessings of his company."
+author: "Nayaswami Devi"
+date: 2023-08-11
+tags:
+- impersonal
+- love
+- God
+---
+
+Some years ago Jyotish and I arrived at Ananda’s community near Assisi, Italy, where Swami Kriyananda was then residing. We hadn’t seen him for many months, and were eagerly looking forward to having some relaxed time with him to enjoy the blessings of his company.
+
+Much to my disappointment, however, it was evident that Swamiji was very busy with writing a new book and teaching many programs. My heart sank as I realized that my dream of spending personal time with him probably wasn’t going to happen on that trip.
+
+My disappointment, however, turned out to be an opportunity for an important spiritual lesson. Sensing my letdown, Swamiji took the time to give me this piece of advice: “No one is special to me, Devi. I’m not even special to myself.”
+
+{{< image src="/img/the-dual-nature-of-divine-love.jpeg" alt="the dual nature of divine love" position="center" style="border-radius: 7px; width: 100%;" >}}
+
+Was he saying that he was cold, aloof, and too busy to be bothered with the emotional needs of others? Not at all. Quite the opposite, in fact: Second only to his longing for union with God was his compassion and desire to help others spiritually. Even as he was speaking those words, I felt great love flowing from him.
+
+Divine love is impersonal, because it is universally rather than individually rooted. And it is also personal, because it touches each of us uniquely according to our own nature. This is what Swamiji was trying to convey to me when seeing my disappointment: To feel God’s love for us we need to open ourselves to a greater reality.
+
+In the chapter in Autobiography of a Yogi in which Master meets his guru, Sri Yukteswar, we find a remarkable demonstration of this impersonal/personal kind of love. Though they had never met before in that lifetime, Master recognized his guru immediately and fell at his feet.
+
+“O my own, you have come to me!” Sri Yukteswar repeated again and again. “How many years I have waited for you!”
+
+After some time in eloquent silence, Sri Yukteswar said, “I give you my unconditional love.” Master goes on to write, “Precious words! A quarter-century elapsed before I had another auricular proof of his love. His lips were strange to ardor; silence became his oceanic heart.”
+
+Sri Yukteswar told his new disciple: “Ordinary love is selfish, darkly rooted in desires and satisfactions. Divine love is without condition, without boundary, without change. The flux of the human heart is gone forever at the transfixing touch of pure love.”
+
+How do we tune in to this eternal, unconditional love? First, we must find it in meditation as we still the emotional tumult of the heart and the restless thoughts of the mind. In tranquility of heart and mind, God’s love slowly makes itself felt within and around us.
+
+It’s also important to think not of how much love you are receiving, but how much you are giving. Yogananda said that the channel is blessed by what flows through it. By striving to be a channel for divine love to others, we, in turn, become filled with its blessings.
+
+In his years with Master at Mt. Washington, Swamiji used to pray, “Teach me to love you as you love me.” One day, Master looked at him penetratingly and said, “How can the little cup expect to hold the whole ocean of love?” In other words, to truly feel the vastness of divine love, we need to expand the boundaries of our heart to embrace God’s infinite nature.
+
+So divine love is both personal and impersonal, because it touches our unique soul nature, while at the same time existing beyond our individuality. Master captures this dual nature beautifully in his description of the woman saint, Ananda Moyi Ma: “The closest of dear friends, she made one feel, yet an aura of remoteness was ever around her—the paradoxical isolation of Omnipresence.”
+
+There’s a wonderful saying that in every human heart there is a God-shaped hole. However much we try to fill it with other expressions of love, it remains empty until we fill it with God’s presence. Then alone do we find the fulfillment we are seeking.
+
+With loving friendship in God,
+
+Nayaswami Devi
