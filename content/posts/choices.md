@@ -1,0 +1,66 @@
+---
+title: "Choices"
+description: "This insight has great importance for all of us seeking soul freedom. We mistakenly think that the chains of karma keep us forever bound in delusion, when, in truth, we have the power at any time to make the kind of choices that will set us free."
+author: "Nayaswami Devi"
+date: 2023-12-29
+tags:
+- choice
+- will
+- positive
+---
+
+I read a very interesting comment recently from a man who had struggled for many years with obesity. He said that the tipping point finally came when he “realized that I could choose.” With that understanding—that he had the ability to choose what he ate—he was able to lose one hundred seventy-one pounds.
+
+This actually was a profound insight on his part, because he realized he had the power to break the compulsion of bad habits that had kept him in suffering. He discovered within himself the freedom to choose the right action.
+
+This insight has great importance for all of us seeking soul freedom. We mistakenly think that the chains of karma keep us forever bound in delusion, when, in truth, we have the power at any time to make the kind of choices that will set us free.
+
+This is an especially useful concept now, as we end 2023 and begin to look at the changes we want to make in 2024. How many New Year’s resolutions fall by the wayside because we approach them using only our will power!
+
+Granted, will power is important in making any positive change, but if we are resisting the change mentally, we only create inner conflict and tension that block our will. When we realize that we can choose our actions, and then apply will power, all the pieces fall into place. This opens the door to success in achieving our goals, be they material or spiritual.
+
+Another important choice we can make is to discriminate about what we allow to enter our consciousness. A friend recently told me a wonderful story that appears to date from the mid-1800s. More recently, for dramatic effect, it has been attributed in the modern internet fashion to Socrates, and goes like this:
+
+One day a man came running up to Socrates, and said, “I have to tell you something about your friend who . . .”
+
+“Stop,” Socrates interrupted him. “Before you tell me, have you put it through the three sieves?”
+
+Eager to share his news, the man nevertheless asked, “What are those?”
+
+“The first sieve is that of truth,” Socrates explained. “Are you certain that what you are going to tell me is true?”
+
+“Well, no,” the man answered. “I just overheard it.”
+
+Socrates continued, “What about the sieve of goodness? Is what you tell me something good or positive about this man?”
+
+The fellow could only shake his head.
+
+Finally, Socrates asked, “And the last sieve is this: Will it be useful for me to know this?”
+
+Now the man bowed his head in shame. Smiling, Socrates said, “If your story is neither true, nor good, nor useful, please don’t bother me with it.”
+
+These are excellent guidelines for what we allow ourselves to hear and say, for we can choose what enters our mind and leaves our mouth. We’re all bombarded with news and opinions from others, not to mention those from social media. Rather than go down a rabbit hole of false information, choose what you know to be true, positive, and useful for you to hear.
+
+{{< image src="/img/choices.jpeg" alt="choices" position="center" style="border-radius: 7px; width: 100%;" >}}
+
+Equally important, pass what you say about someone else through those criteria. Mentally create a strong barrier in your mind, through which no critical or unkind words can pass. You’ll be surprised at the positive effect this has on your consciousness, and the freedom it brings.
+
+Finally, the most important choice we can make is to focus our life more completely on our spiritual goals. Recently we watched the recording of an inspiring talk that Swami Kriyananda gave called “The Christmas Mystery.” He concludes with these words: “Resolve in the coming year to live more in God.” This is a choice we consciously can make.
+
+As stated in this prayer from A Festival of Light, the beautiful ceremony created by Swamiji:
+
+```
+O Lord,
+With all my heart,
+With all my mind,
+With all my soul,
+And with all my strength
+I choose Thy love—
+I choose only Thee.
+```
+
+Once this choice is wholeheartedly made, we begin to walk the sure path that leads to union with God. Then all other choices pale in comparison.
+
+Wishing you a blessed New Year,
+
+Nayaswami Devi

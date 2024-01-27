@@ -1,0 +1,42 @@
+---
+title: "The Shawl of Gold"
+description: "Angelica, for that was the young girl’s name, had been wandering alone and hungry for nearly a week. The old lady who had let her sleep in the storeroom in exchange for her services had died recently, and her ramshackle house had been closed and shuttered."
+author: "Nayaswami Jyotish"
+date: 2023-12-22
+tags:
+- meditation
+- vision
+- prayer
+---
+
+Many of you reading this blog will have heard Swami Kriyananda’s beautiful song, “The Shawl of Gold.” But few of you will have heard the rest of the story. This is how it was revealed to me in my meditation.
+
+Angelica, for that was the young girl’s name, had been wandering alone and hungry for nearly a week. The old lady who had let her sleep in the storeroom in exchange for her services had died recently, and her ramshackle house had been closed and shuttered.
+
+This night, Christmas Eve, had surely been the strangest of her young life. The night before, perhaps from hunger or loneliness, she had been disturbed by two odd dreams. In the first, Jesus had appeared and told her that just as he had been rejected three times, so must she. The second dream was sweeter, but so very strange.
+
+This evening she had wandered the streets desperate to find some sort of work. The first man she’d asked had not even bothered to glance her way. The second had raised his cane to strike her. Then, as she ran to the church, the third man had shouted at her so angrily.
+
+When she had stumbled away in terror, she happened upon this poor boy, even younger and more desperate than she, and gave him her shawl. Then, a strange warm breeze had come, and the threadbare shawl had turned to gold.
+
+Now, as she hugged the poor boy, hoping to give him some comfort, though she had received so little herself in her young life, a beautiful woman stood before them. It was as if she were so filled with light that her body could not contain it and it spilled out all around her. “Come with me, my children. For I, too, know suffering,” the woman said.
+
+She led them to a house and told them to knock. As the door opened, a woman knelt, with tears and wonder in her eyes, and hugged them to her bosom. “Come in, come in,” she whispered.
+
+They gratefully followed her into a warm room. Resting on the fireplace mantle was a statue of the woman who had led them here. Even more amazing, there was a photo of the man with long hair, orange robes, and shining eyes who had come into her second dream.
+
+{{< image src="/img/the-shawl-of-gold.jpeg" alt="the-shawl-of-gold" position="center" style="border-radius: 7px; width: 100%;" >}}
+
+“Who is that man?” the girl asked. “He is my Master,” the woman replied. Angelica then told the woman of her dream: “I was alone and scared, in a dark room. Then I saw a circle of light on the floor which began to spread, and that man emerged out of the center of it. He knelt before me and said in the gentlest of voices, ‘If you will open your heart to me, I can then enter and take care of you.’ As the dream began to withdraw, I awoke suddenly with a glowing warmth in my heart.”
+
+The woman began to weep. “He appeared also to me in my meditation, and told me, ‘I have heard your prayers and known your grief. Tonight, your heart will be healed.’ Then, in a vision, I saw the two of you just as clearly as I see you now.
+
+“I had no idea what to make of this strange experience, but as I left my meditation, I felt an urge to cook the favorite Christmas feast of my two children who died of the flu last year. I thought it was only to keep my mind and heart occupied, but now I see that it had a much deeper purpose.”
+
+Then, taking each of the children by the hand, she led them to a table filled with foods they had never tasted.
+
+“Let us eat together tonight and, if you will stay, we will eat together every night for as long as we live.”
+
+In Christ’s love,
+
+Nayaswami Jyotish

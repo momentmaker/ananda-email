@@ -1,0 +1,34 @@
+---
+title: "Stories of Attunement"
+description: "From time immemorial, stories have entertained, informed, amused, and united us. Spiritual stories can also enlighten us. While I was recently in seclusion, I reread a wonderful but lesser-known book, Thank You, Master. It contains reminiscences by three direct disciples of Paramhansa Yogananda: Hare Krishna Ghosh, Meera Ghosh, and Peggy Deitz."
+author: "Nayaswami Jyotish"
+date: 2024-01-19
+tags:
+- attunement
+- difficulties
+- calm
+---
+
+From time immemorial, stories have entertained, informed, amused, and united us. Spiritual stories can also enlighten us. While I was recently in seclusion, I reread a wonderful but lesser-known book, Thank You, Master. It contains reminiscences by three direct disciples of Paramhansa Yogananda: Hare Krishna Ghosh, Meera Ghosh, and Peggy Deitz.
+
+{{< image src="/img/stories-of-attunement.jpeg" alt="stories-of-attunement" position="center" style="border-radius: 7px; width: 100%;" >}}
+
+When Yogananda returned to India in 1935–36, he spent a lot of time with his young nephew, Hare Krishna, and niece, Meera. Here are some wonderful stories of their time with their guru/uncle, along with some comments.
+
+**Story:** Yogananda’s father, Bhagabati, was a man of great discipline and a deep meditator. At the age of eighty-two, Hare Krishna writes, he needed surgery for a hernia. The surgeon was concerned that, due to his age and fragility, he could not survive being put to sleep with chloroform, the only anesthetic available at that time. Bhagabati told the doctor, “Arrange for the operation. I will do my pranayama, and I won’t feel any pain.” And so it was, to the surgeon’s great astonishment.
+
+**Comment:** We are all faced with difficult, sometimes painful challenges. Most of us have tools of meditation and pranayama, but isn’t it true that we forget to use them? These great souls remind us to use our spiritual techniques for all of life’s challenges. Swami Kriyananda underwent some painful dental procedures without any anesthetic. He said, “I just do Hong-Sau, or compose music. If that isn’t enough, I go to the calm center of the pain. And if even that doesn’t work, I tell myself, ‘This is only a short moment in a long life. Don’t resist the experience, or get upset.’”
+
+**Story** (also from Hare Krishna): In January 1936, Yogananda was on a big steamship along with hundreds of pilgrims. After sailing forty miles along the river Ganges where the river was very wide, we suddenly felt the ship going down, down, down and the waters coming up onto the deck of the ship. At this, the pilgrims were frightened and running all over the decks out of fear. Many, seeing our Guruji, came running and requested him to save their lives. Guruji said, “Be calm, don’t worry, and don’t run out of fear. Everything will be all right. Sit down where you are and pray to God for your lives.” After some five or ten minutes we found the waters had gone down from the decks and the ship had come out of the water to its normal level.
+
+The pilgrims came to Guruji and said, “Guruji, you have saved our lives!” But Guruji said, “No, I have not saved your lives. You prayed to God and so God has saved all our lives.”
+
+**Comment:** Yogananda was reminding us of his teaching that “We do twenty-five percent of the work. The Guru does twenty-five percent on our behalf. And God does the other fifty percent.” But as we have been given free will, it is up to us to start the process. Then God and Guru can supplement our efforts. It is important that we do whatever we can and only then rely on them to do the rest.
+
+**Story** (this is from Meera): “I used to suffer from a bad headache every evening. It was so severe that I had to confine myself to bed. Many renowned physicians treated me. I also took various medicines prescribed by them, but nothing could relieve the pain. Seeing no other way, my mother informed Swamiji of my sufferings. Next morning Guruji called to me and blessed me with a flower and said, ‘When you get the pain, touch the flower to your head.’ I did accordingly, which relieved me of my headaches forever. I have kept the treasure with me with utmost care as a shield against all difficulties even today.”
+
+**Comment:** Rely more on God and Guru. If it is the divine will, the problem will cease to exist. If the trouble doesn’t pass, accept that, too, as a different kind of flower, given none-the-less with their love and blessings. If we can remember to turn to them, it opens the door for their response. As Yogananda said, “For those who think me near, I will be near.” Whatever comes from them, be it an object or an insight, keep it with utmost care as a treasure and a shield against all of life’s difficulties.
+
+In divine friendship,
+
+Nayaswami Jyotish

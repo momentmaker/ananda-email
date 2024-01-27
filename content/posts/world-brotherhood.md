@@ -1,0 +1,40 @@
+---
+title: "World Brotherhood"
+description: "Ananda celebrated its first World Brotherhood Day more than four decades ago, and it has now become a treasured tradition. Paramhansa Yogananda spoke often and forcefully about the need for people to recognize their kinship with one another."
+author: "Nayaswami Jyotish"
+date: 2023-12-08
+tags:
+- unity
+- commitment
+- success
+---
+
+Ananda celebrated its first World Brotherhood Day more than four decades ago, and it has now become a treasured tradition. Paramhansa Yogananda spoke often and forcefully about the need for people to recognize their kinship with one another.
+
+When Devi and I were honored in 2017 as “Global Peace Ambassadors” at the United Nations in New York, we concluded our talk with Yogananda’s “Prayer for a United World”:
+
+```
+May the heads of all countries and races be guided to understand that men of all nations are physically and spiritually one: physically one, because we are the descendants of common parents—the symbolic Adam and Eve; and spiritually one, because we are the immortal children of our Father, bound by eternal links of brotherhood.
+
+Let us pray in our hearts for a League of Souls and a United World. Though we may seem divided by race, creed, color, class, and political prejudices, still, as children of the one God we are able in our souls to feel brotherhood and world unity. May we work for the creation of a United World in which every nation will be a useful part, guided by God through man’s enlightened conscience.
+
+In our hearts we can all learn to be free from hate and selfishness. Let us pray for harmony among the nations. That they march hand in hand through the gate of a fair new civilization.
+```
+
+Today’s world, rife with tribalism and conflict, has never needed this message more. World brotherhood is the cooling water that can quench the flames of hatred that are otherwise destined to burst into fires of even greater warfare.
+
+{{< image src="/img/world-brotherhood.jpeg" alt="world-brotherhood" position="center" style="border-radius: 7px; width: 100%;" >}}
+
+One of Ananda’s first World Brotherhood Days was held at the Scottish Rite Memorial Hall in San Francisco (where Yogananda had taught classes in 1924). We spoke of the need for appreciating and embracing everyone, whether we view them as friend or foe. But we didn’t want to limit ourselves to mere words. We purposely chose early December because it starts the Christmas holy season. At this time, when people’s hearts are more open, we suggested that everyone make their kinship practical by giving the first gift of the season to God—a donation of one day’s earnings to the cause of world peace. That tradition has endured all these years, and we will celebrate this wonderful event once again this year.
+
+The essence of world brotherhood and the essence of our spiritual path are the same: to seek unity (yoga) where others see only diversity. Yogananda urged us again and again to see God’s smiling face hiding behind all outer appearances: behind the stars and the moon, the dawn and the dusk, the flowers and, yes, the weeds. All is made of God’s light.
+
+I assume that everyone who is reading this blog agrees with these basic concepts, but how do we put them into practice? Start with your meditation, since most of us begin our day that way. Always end your meditation by visualizing and praying for world peace. But today, in honor of the concept of world brotherhood, try also to visualize the faces of people of different races, religions, and nationalities.
+
+Then, as you start your daily activity, make a commitment to do one kind and unexpected act today for someone you will meet, a friend or a stranger. Smile more! Swami Kriyananda quoted Master as follows, “Master considered cheerfulness of the greatest importance, and often counseled, ‘Be prosperous by smiling no matter what happens. Do not be afraid to sell the bonds of smiles when the market of happiness is low. Keep smiling while planning and acting for success, and your smiles will fetch priceless treasures in the end. Wise, persevering activity with unfading smiles brings sure success.’”
+
+Above all, we must try to fill our day with light, love, and joy, and to share these qualities with all we meet. This is the prime responsibility of those of us who long for world peace and brotherhood.
+
+Your brother,
+
+Nayaswami Jyotish
