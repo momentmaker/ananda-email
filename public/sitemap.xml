@@ -2,22 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ananda.email/posts/be-the-big-picture/</loc>
+    <lastmod>2024-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ananda.email/</loc>
+    <lastmod>2024-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ananda.email/tags/joy/</loc>
+    <lastmod>2024-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ananda.email/tags/maya/</loc>
+    <lastmod>2024-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ananda.email/posts/</loc>
+    <lastmod>2024-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ananda.email/tags/sorrow/</loc>
+    <lastmod>2024-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ananda.email/tags/</loc>
+    <lastmod>2024-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ananda.email/tags/concentration/</loc>
+    <lastmod>2024-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ananda.email/tags/detachment/</loc>
+    <lastmod>2024-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ananda.email/tags/humor/</loc>
+    <lastmod>2024-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ananda.email/posts/one-at-a-time/</loc>
+    <lastmod>2024-02-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ananda.email/tags/grace/</loc>
     <lastmod>2024-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ananda.email/tags/hope/</loc>
     <lastmod>2024-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ananda.email/</loc>
-    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ananda.email/tags/memory/</loc>
-    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ananda.email/posts/</loc>
-    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ananda.email/tags/</loc>
     <lastmod>2024-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ananda.email/posts/what-keeps-us-moving-towards-god/</loc>
@@ -113,9 +137,6 @@
     <loc>https://ananda.email/tags/happiness/</loc>
     <lastmod>2023-11-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ananda.email/tags/joy/</loc>
-    <lastmod>2023-11-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ananda.email/posts/simple-steps-to-happiness/</loc>
     <lastmod>2023-11-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -175,12 +196,6 @@
   </url><url>
     <loc>https://ananda.email/posts/show-me-your-friends/</loc>
     <lastmod>2023-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ananda.email/tags/concentration/</loc>
-    <lastmod>2023-10-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ananda.email/tags/maya/</loc>
-    <lastmod>2023-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ananda.email/posts/the-minutes-are-more-important-than-the-years/</loc>
     <lastmod>2023-10-06T00:00:00+00:00</lastmod>
@@ -447,9 +462,6 @@
     <lastmod>2023-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ananda.email/posts/a-curious-tail/</loc>
-    <lastmod>2023-02-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ananda.email/tags/detachment/</loc>
     <lastmod>2023-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ananda.email/tags/chant/</loc>
