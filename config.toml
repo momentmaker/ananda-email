@@ -58,15 +58,16 @@ enableRobotsTXT = true
 [languages]
   [languages.en]
     languageName = "English"
-    menuMore = "Show"
-    readMore = "Read"
-    readOtherPosts = "Read other posts"
-    newerPosts = "Newer posts"
-    olderPosts = "Older posts"
-    missingContentMessage = "Page not found..."
-    missingBackButtonLabel = "Back to home page"
-    minuteReadingTime = "min read"
-    words = "words"
+    [languages.en.params]
+      menuMore = "Show"
+      readMore = "Read"
+      readOtherPosts = "Read other posts"
+      newerPosts = "Newer posts"
+      olderPosts = "Older posts"
+      missingContentMessage = "Page not found..."
+      missingBackButtonLabel = "Back to home page"
+      minuteReadingTime = "min read"
+      words = "words"
 
     [languages.en.params.logo]
       logoText = "Ananda Email"
