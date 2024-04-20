@@ -21,7 +21,7 @@ After many complaints, Swamiji finally said, “I’ll talk to her.” We all wa
 
 On the other hand, for those who were ready, he could be very direct. If we were dedicated to finding God and serving the mission of the Masters, he didn’t hold back. Often he gave us advice or assignments that were quite untimely. He sent Devi and me along with our young son, first to San Francisco and later to Italy, even though it was very disruptive to our family life. When we asked him about the effect on our son, he said, “He chose you as parents. When you serve selflessly, he also reaps the benefit.”
 
-{{< image src="/img/how-kriyananda-worked-with-people.png" alt="how-kriyananda-worked-with-people" position="center" style="border-radius: 7px; width: 100%;" >}}
+{{< image src="/img/how-swami-kriyananda-worked-with-people.png" alt="how-swami-kriyananda-worked-with-people" position="center" style="border-radius: 7px; width: 100%;" >}}
 
 **Help everyone:** Swamiji not only helped his friends, but often went out of his way to comfort strangers. One time he bought an expensive massage table for a young man he’d met for the first time. The man burst into tears. “I grew up on the streets as an orphan,” he said, “having always to fend for myself. The one thing I have always yearned for was the love of a father. Today I felt it for the first time in my life.”
 
